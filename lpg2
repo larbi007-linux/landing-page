@@ -1,0 +1,150 @@
+	
+version	"0.4"
+title	"Katka Restaurant &#8211; The restaurant"
+type	"section"
+content	
+0	
+id	"4184c902"
+settings	
+content_position	"middle"
+structure	"20"
+background_background	"classic"
+background_color	"#ffffff"
+padding	
+unit	"px"
+top	"100"
+right	"0"
+bottom	"100"
+left	"0"
+isLinked	false
+elements	
+0	
+id	"60912a9b"
+settings	
+_column_size	50
+_inline_size	40
+space_between_widgets	0
+padding	
+unit	"px"
+top	"15"
+right	"15"
+bottom	"15"
+left	"15"
+isLinked	true
+elements	
+0	
+id	"9ebc1de"
+settings	{…}
+elements	[]
+isInner	false
+widgetType	"heading"
+elType	"widget"
+1	
+id	"4077caef"
+settings	
+title	"Something as a sub header"
+align	"center"
+align_tablet	"center"
+align_mobile	"center"
+title_color	"#b2947c"
+typography_typography	"custom"
+typography_font_size	{…}
+typography_font_size_mobile	{…}
+typography_font_family	"Bitter"
+typography_letter_spacing	{…}
+_padding	{…}
+elements	[]
+isInner	false
+widgetType	"heading"
+elType	"widget"
+2	
+id	"5ead3c7d"
+settings	
+weight	{…}
+color	"#3c3127"
+width	{…}
+align	"center"
+gap	{…}
+elements	[]
+isInner	false
+widgetType	"divider"
+elType	"widget"
+3	
+id	"732c1a43"
+settings	
+editor	"<p>I am text block. Clic…lvinar dapibus leo.</p>"
+align	"center"
+text_color	"#3c3127"
+typography_typography	"custom"
+typography_font_size	{…}
+typography_font_family	"Raleway"
+_padding	{…}
+elements	[]
+isInner	false
+widgetType	"text-editor"
+elType	"widget"
+4	
+id	"3b729f3b"
+settings	
+text	"The Menü"
+link	{…}
+align	"center"
+typography_typography	"custom"
+typography_font_size	{…}
+typography_font_family	"Raleway"
+typography_font_weight	"500"
+button_text_color	"#ffffff"
+background_color	"#b2947c"
+hover_color	"#b2947c"
+button_background_hover_color	"#ffffff"
+button_hover_border_color	"#b2947c"
+hover_animation	"grow"
+border_border	"solid"
+border_width	{…}
+border_color	"#ffffff"
+border_radius	{…}
+elements	[]
+isInner	false
+widgetType	"button"
+elType	"widget"
+isInner	false
+elType	"column"
+1	
+id	"43ad1821"
+settings	
+_column_size	50
+_inline_size	60
+content_position	"center"
+padding	
+unit	"px"
+top	"15"
+right	"15"
+bottom	"15"
+left	"15"
+isLinked	true
+elements	
+0	
+id	"13c0900e"
+settings	
+structure	"20"
+elements	
+0	{…}
+1	{…}
+isInner	true
+elType	"section"
+1	
+id	"4791e140"
+settings	
+image	{…}
+image_size	"custom"
+image_custom_dimension	{…}
+image_box_shadow_box_shadow_type	"yes"
+image_box_shadow_box_shadow	{…}
+elements	[]
+isInner	false
+widgetType	"image"
+elType	"widget"
+isInner	false
+elType	"column"
+isInner	false
+elType	"section"
